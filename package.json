@@ -19,7 +19,7 @@
     "next-themes": "^0.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-insta-stories": "^2.6.2",
+    "react-insta-stories": "^2.7.0",
     "react-router-dom": "^6.23.1",
     "sonner": "^1.4.41",
     "tailwind-merge": "^2.3.0",
